@@ -1,2 +1,2 @@
 # table
-Few simple element with diffrent textures in three.js
+Few simple elements with diffrent textures in three.js
